@@ -1,0 +1,40 @@
+.card{
+    display: flex;
+    justify-content: space-between;
+   
+    
+    background-color: black;
+    color: yellow;
+}
+.two {
+    display: flex;
+  align-items: center;
+  list-style: none;
+}
+.two li{
+    padding-right: 10px;
+
+}
+  .two li:hover{
+    color: brown;
+    cursor: pointer;
+  }
+  .cardone:hover{
+    color: brown;
+    cursor: pointer;
+  }
+  .ah {
+    border: 2px solid black;
+    margin-top: 30px;
+    max-width: 150px;
+text-align: center;
+
+  }
+  .ahmed
+  {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  
+
